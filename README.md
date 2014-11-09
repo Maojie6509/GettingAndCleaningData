@@ -18,6 +18,6 @@ Instruction about the run_analysis.R code
 ==================
 2:The data used  in this repository was downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 =================
-3:Run the R script run_analysis.R
+3:Run the R script : run_analysis.R
 =================
-4:Outputs :MewDataset.txt
+4:Outputs :NewDataset.txt
