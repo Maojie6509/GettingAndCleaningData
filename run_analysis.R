@@ -57,4 +57,5 @@ for(s in unique(subjectNamesVector)){
     cm = colMeans(xMatrixReduced[w,])
     newData[s,] = cm
 }
-write.table(newData,file=paste( "newDataset.txt", sep=""))
+##write 
+ write.table(newData,file="newDataset.txt",row.name=FALSE, sep="")
